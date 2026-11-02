@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="115">
+    <author>FS Modding</author>
+    <version>1.0.0.0</version>
+    <multiplayer supported="true"/>
+    <iconFilename>icon.dds</iconFilename>
+
+    <title>
+        <en>Random Cough</en>
+        <de>Zufaelliges Husten</de>
+    </title>
+
+    <description>
+        <en><![CDATA[Your farmer coughs from time to time, completely at random.
+
+- Separate cough sounds for male and female characters, picked automatically from your character
+- A cough every 3 to 10 minutes, at a random moment, in the cab and on foot
+- No menu, no setup: install it and play
+- Multiplayer supported: every player hears their own cough]]></en>
+        <de><![CDATA[Dein Landwirt hustet ab und zu, ganz zufaellig.
+
+- Eigene Hustengeraeusche fuer maennliche und weibliche Charaktere, automatisch passend zu deiner Spielfigur
+- Alle 3 bis 10 Minuten ein Husten, zu einem zufaelligen Zeitpunkt, in der Kabine und zu Fuss
+- Kein Menue, keine Einrichtung: installieren und spielen
+- Multiplayer wird unterstuetzt: jeder Spieler hoert seinen eigenen Husten]]></de>
+    </description>
+
+    <extraSourceFiles>
+        <sourceFile filename="scripts/RandomCough.lua"/>
+    </extraSourceFiles>
+</modDesc>

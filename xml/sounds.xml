@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<sounds>
+    <maleCough file="sounds/male_cough.ogg" volumeScale="1.0" supportsReverb="false"/>
+    <femaleCough file="sounds/female_cough.ogg" volumeScale="0.85" supportsReverb="false"/>
+</sounds>
